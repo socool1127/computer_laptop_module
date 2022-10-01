@@ -1,8 +1,3 @@
-# 상업적 이용 빼고 가능ㅎ
-# 이 주석 꼭 남기세요ㅋ
-# MADE BY 이딥#9708
-
-
 import datetime as dt
 
 def andoem(안돼는거: str):
