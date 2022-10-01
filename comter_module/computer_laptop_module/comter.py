@@ -1,3 +1,6 @@
+#2022-10-01 (수정됨) : 뷁
+
+
 import datetime as dt
 
 def andoem(안돼는거: str):
